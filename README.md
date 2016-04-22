@@ -1,11 +1,10 @@
-# Stat-133-Grade-Distribution
 Description: The purpose of this project was to analyze the grade distributions of Stat 133 classes over the years 2010 to 2015. Analysis would include measurements of average GPA from the class, average of GPA based on the teacher, []
 
+
 Author information:
-Steven Lam -steventomlam@gmail.com  or  plam120@berkeley.edu
 
 Alexander Lee - alexgeraldlee@berkeley.edu
-
+Pui Fung Lam - plam120@berkeley.edu
 
 Files and Directories:
 The raw data as obtained from UC Berkeley [CalAnswers] is contained in the directory "RawData". The cleaned data - which extracts from the raw data the columns of Enrollment Count, Instructor Name, Average Grade, and Grade Name - is contained in the directory "Data". 

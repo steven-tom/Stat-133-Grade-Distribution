@@ -1,0 +1,14 @@
+﻿Grade Sort Nbr,Enrollment Cnt,% Grades Receivedof Enrollment,Letter Grd Cnt,Course Control Nbr,Instructor Name,Average Grade,Course Subject Short Nm,Course Number,Section Nbr,Grade Subtype Desc,Grade Type Desc,Grade Nm,Course Title Nm
+1,1,,,87489,Cari Kaufman,4,Statistics,133,001,A,Letter Grade,A+,Computing Data
+2,23,,,87489,Cari Kaufman,4,Statistics,133,001,A,Letter Grade,A,Computing Data
+3,17,,,87489,Cari Kaufman,3.7,Statistics,133,001,A,Letter Grade,A-,Computing Data
+4,18,,,87489,Cari Kaufman,3.3,Statistics,133,001,B,Letter Grade,B+,Computing Data
+5,3,,,87489,Cari Kaufman,3,Statistics,133,001,B,Letter Grade,B,Computing Data
+6,4,,,87489,Cari Kaufman,2.7,Statistics,133,001,B,Letter Grade,B-,Computing Data
+7,2,,,87489,Cari Kaufman,2.3,Statistics,133,001,C,Letter Grade,C+,Computing Data
+8,1,,,87489,Cari Kaufman,2,Statistics,133,001,C,Letter Grade,C,Computing Data
+9,1,,,87489,Cari Kaufman,1.7,Statistics,133,001,C,Letter Grade,C-,Computing Data
+11,2,,,87489,Cari Kaufman,1,Statistics,133,001,D,Letter Grade,D,Computing Data
+13,2,,,87489,Cari Kaufman,0,Statistics,133,001,F,Letter Grade,F,Computing Data
+22,2,,,87489,Cari Kaufman,,Statistics,133,001,Credit,Non-Letter Grade,Pass,Computing Data
+27,1,,,87489,Cari Kaufman,,Statistics,133,001,No Credit,Non-Letter Grade,Not Pass,Computing Data

@@ -1,0 +1,8 @@
+---
+title: "Report"
+author: "Alexander Lee"
+date: "December 6, 2015"
+output: word_document
+---
+
+For this project, we aimed to analyze the grade distributions of Stat 133 classes from previous years. This would include an analysis of each teacher of each semester, and of each teacher over all semesters during which he or she taught. We looked at the average grades (measured in GPA/unit) across the entire class for the semester, and we plotted the frequency of each grade value (A+, A, A-, etc.) that the students of that class received.
