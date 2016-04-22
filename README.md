@@ -3,6 +3,7 @@ Description: The purpose of this project was to analyze the grade distributions 
 
 Author information:
 Steven Lam -steventomlam@gmail.com  or  plam120@berkeley.edu
+
 Alexander Lee - alexgeraldlee@berkeley.edu
 
 
